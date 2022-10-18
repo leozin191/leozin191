@@ -14,6 +14,7 @@ My name is Leonardo but you can call me Leo or Leozara!
             <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
             <img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
             <img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+            <img src ="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
                                                                                                                 
 </div>
             
