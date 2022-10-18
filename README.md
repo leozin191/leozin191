@@ -1,5 +1,7 @@
 # 👋 Hello! Welcome!
-## My name is Leonardo but you can call me Leo or Leozara!
+
+My name is Leonardo but you can call me Leo or Leozara!
+
 
 
 ## Technologies and Programming languages
