@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome!
+#  Hello! Welcome!
 
 My name is Leonardo but you can call me Leo or Leozara!
 
